@@ -1,0 +1,3 @@
+#files to ignore
+env/
+Helper_file/__pycache
