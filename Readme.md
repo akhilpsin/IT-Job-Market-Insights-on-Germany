@@ -1,19 +1,22 @@
-# Job Scraper: Data Engineering Pipeline
+# IT Job Market Insights ( Germany )
 
-## Project Overview
+## Overview
+This project focuses on extracting, processing, and analyzing job postings from Xing to understand the IT job demand across Germany. The extracted data is cleaned, enriched with geographical details, and visualized using Tableau.
 
-This project is part of a **Data Engineering Pipeline** that involves extracting job postings from Xing using **Request Spoofing**. The extracted data is structured and stored in a CSV file, cleaned to correct city names and add geographical information, and then prepared for further analysis, such as creating a dashboard in Tableau.
+## Technologies Used
+- **Python** (for data extraction and cleaning)
+- **Requests & BeautifulSoup** (for web scraping and request spoofing)
+- **Pandas** (for data processing and cleaning)
+- **Fuzzy Matching** (for city name corrections)
+- **CSV** (for structured data storage)
+- **Tableau** (for data visualization and dashboarding)
+- **Git & GitHub** (for version control and collaboration)
 
 ## Features
-
-- Extracts job postings from **Xing's hidden API**.
-- Implements **Request Spoofing** to mimic a web browser.
-- Retrieves job details such as **title, company, location, salary, and updated date**.
-- Efficient data extraction with **batched API requests**.
-- Saves data in a structured **CSV format**.
-- Cleans and corrects city names using **fuzzy matching**.
-- Adds **latitude, longitude, and state information** to each job listing.
-- Prepares data for **dashboarding in Tableau**.
+- **Job Postings Extraction:** Scraped job postings from Xing using request spoofing.
+- **Data Cleaning:** Used fuzzy matching to correct city names and enriched the dataset with latitude, longitude, and state.
+- **CSV Export:** Saved extracted and cleaned job data into structured CSV files.
+- **Tableau Dashboard:** Created an interactive visualization of IT job demand in Germany.
 
 ## Project Structure
 ```
@@ -22,39 +25,34 @@ project_root/
 │   ├── xing_scraping_helper.py   # Contains API request and data extraction logic
 │   ├── xing_cleaning_helper.py  # Contains data cleaning and geographical data addition logic
 │   └── Deutschland_Cities.csv    # Contains city names and geographical data
+|── raw/
+|   |__dashboard_preview.png
 │── main_scraper.py               # Runs the scraping and cleaning processes
 │── requirements.txt              # Required dependencies
 │── README.md                     # Project documentation
 ```
 
-## Installation
-### Prerequisites
-Ensure you have **Python 3.8+** installed and set up in your environment.
+## Tableau Dashboard
+To make the data more accessible and insightful, an interactive Tableau dashboard was created. It provides insights into IT job demand trends, regional distribution, and key job roles.
 
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
+🔗 **[View the Tableau Dashboard](https://public.tableau.com/views/ITJobDemandAcrossGermany/CompleteDashboard)**
 
-## Usage
-Run the **main_scraper.py** file to start extracting job data:
-```bash
-python main_scraper.py
-```
-### Example Function Call
-```python
-get_xing_data(data_size=1000, out_file="Xing_output_file.csv")
-```
-This will extract **1,000 job listings** and save them in `Xing_output_file.csv`.
+![IT Job Market Insights Dashboard for Germany](https://github.com/akhilpsin/Data-engineering-project/raw/dashboard_preview.png)
 
-## How It Works
-1. **Request Spoofing:** The scraper mimics a web browser by sending crafted requests to Xing's hidden API.
-2. **Data Extraction:** The API response is parsed to extract relevant job details.
-3. **Batch Processing:** Jobs are fetched in chunks (default: 20 per request) for efficiency.
-4. **CSV Output:** Extracted data is written in a structured CSV format.
-5. **Data Cleaning:** The xing_cleaning_helper.py script cleans the data by correcting city names and adding geographical information.
-6. **Cleaned CSV Output:** Cleaned data is saved in xing_cleaned_jobs.csv.
-7. **Tableau Dashboarding:** The cleaned data is now ready for visualization and analysis in Tableau.
+## How to Use
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/akhilpsin/Data-engineering-project.git
+   ```
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run the scraper to extract job data:
+   ```sh
+   python main_scraper.py
+   ```
+4. View the cleaned data (`xing_cleaned_jobs.csv`) and analyze it using Tableau or other visualization tools.
 
 ## CSV File Format
 **Raw Data (xing_output_file.csv):**
@@ -68,9 +66,5 @@ This will extract **1,000 job listings** and save them in `Xing_output_file.csv`
 |-----------------|-------------|-----------|----------|----------|---------------------|---------|------|
 |Software Engineer| 2025-03-07  | Xing GmbH |60,000    |90,000    |Berlin      |525167  |133833   |Berlin|
 
-
-## Legal & Ethical Considerations
-- This project is for **educational and research purposes** only.
-
-## License
-This project is open-source under the **MIT License**.
+---
+This project provides a foundation for understanding the IT job market in Germany through data engineering and visualization techniques.
