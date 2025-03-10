@@ -1,0 +1,624 @@
+city;lat;lng;country;State/admin
+Berlin;525167;133833;Germany;Berlin
+Hamburg;535500;100000;Germany;Hamburg
+Munich;481372;115755;Germany;Bavaria
+Cologne;509422;69578;Germany;North Rhine-Westphalia
+Frankfurt;501136;86797;Germany;Hesse
+Bremen;531153;87975;Germany;Bremen
+Stuttgart;487761;91775;Germany;Baden-Württemberg
+Düsseldorf;512311;67724;Germany;North Rhine-Westphalia
+Dortmund;515139;74653;Germany;North Rhine-Westphalia
+Essen;514508;70131;Germany;North Rhine-Westphalia
+Dresden;510493;137384;Germany;Saxony
+Leipzig;513500;123833;Germany;Saxony
+Hannover;523744;97386;Germany;Lower Saxony
+Nuremberg;494528;110778;Germany;Bavaria
+Duisburg;514322;67611;Germany;North Rhine-Westphalia
+Bochum;514833;72167;Germany;North Rhine-Westphalia
+Wuppertal;512667;71833;Germany;North Rhine-Westphalia
+Bielefeld;520167;85333;Germany;North Rhine-Westphalia
+Bonn;507339;70997;Germany;North Rhine-Westphalia
+Münster;519625;76256;Germany;North Rhine-Westphalia
+Karlsruhe;490167;84000;Germany;Baden-Württemberg
+Mannheim;494878;84661;Germany;Baden-Württemberg
+Augsburg;483717;108983;Germany;Bavaria
+Wiesbaden;500825;82400;Germany;Hesse
+Mönchengladbach;512000;64333;Germany;North Rhine-Westphalia
+Gelsenkirchen;515167;71000;Germany;North Rhine-Westphalia
+Braunschweig;522692;105211;Germany;Lower Saxony
+Kiel;543233;101394;Germany;Schleswig-Holstein
+Aachen;507762;60838;Germany;North Rhine-Westphalia
+Chemnitz;508333;129167;Germany;Saxony
+Halle;514828;119697;Germany;Saxony-Anhalt
+Magdeburg;521278;116292;Germany;Saxony-Anhalt
+Freiburg im Breisgau;479947;78497;Germany;Baden-Württemberg
+Krefeld;513333;65667;Germany;North Rhine-Westphalia
+Lübeck;538697;106864;Germany;Schleswig-Holstein
+Oberhausen;514699;68514;Germany;North Rhine-Westphalia
+Rostock;540833;121333;Germany;Mecklenburg-Western Pomerania
+Erfurt;509787;110328;Germany;Thuringia
+Kassel;513158;94979;Germany;Hesse
+Hagen;513594;74750;Germany;North Rhine-Westphalia
+Mainz;500000;82711;Germany;Rhineland-Palatinate
+Saarbrücken;492333;70000;Germany;Saarland
+Hamm;516667;78167;Germany;North Rhine-Westphalia
+Potsdam;524000;130667;Germany;Brandenburg
+Ludwigshafen;494811;84353;Germany;Rhineland-Palatinate
+Mülheim;514283;68789;Germany;North Rhine-Westphalia
+Oldenburg;531439;82139;Germany;Lower Saxony
+Osnabrück;522789;80431;Germany;Lower Saxony
+Leverkusen;510333;69833;Germany;North Rhine-Westphalia
+Heidelberg;494122;87100;Germany;Baden-Württemberg
+Solingen;511667;70833;Germany;North Rhine-Westphalia
+Darmstadt;498667;86500;Germany;Hesse
+Herne;515426;72190;Germany;North Rhine-Westphalia
+Neuss;512003;66939;Germany;North Rhine-Westphalia
+Regensburg;490167;120833;Germany;Bavaria
+Paderborn;517167;87667;Germany;North Rhine-Westphalia
+Ingolstadt;487636;114261;Germany;Bavaria
+Würzburg;497944;99294;Germany;Bavaria
+Fürth;494783;109903;Germany;Bavaria
+Ulm;483984;99916;Germany;Baden-Württemberg
+Heilbronn;491404;92180;Germany;Baden-Württemberg
+Pforzheim;488950;87050;Germany;Baden-Württemberg
+Wolfsburg;524231;107872;Germany;Lower Saxony
+Göttingen;515339;99356;Germany;Lower Saxony
+Bottrop;515232;69253;Germany;North Rhine-Westphalia
+Reutlingen;484833;92167;Germany;Baden-Württemberg
+Koblenz;503597;75978;Germany;Rhineland-Palatinate
+Bremerhaven;535500;85833;Germany;Bremen
+Recklinghausen;516167;72000;Germany;North Rhine-Westphalia
+Bergisch Gladbach;509917;71367;Germany;North Rhine-Westphalia
+Erlangen;495964;110044;Germany;Bavaria
+Jena;509272;115864;Germany;Thuringia
+Remscheid;511906;72247;Germany;North Rhine-Westphalia
+Trier;497567;66414;Germany;Rhineland-Palatinate
+Salzgitter;521503;103593;Germany;Lower Saxony
+Moers;514592;66197;Germany;North Rhine-Westphalia
+Siegen;508756;80167;Germany;North Rhine-Westphalia
+Hildesheim;521500;99500;Germany;Lower Saxony
+Cottbus;517606;143342;Germany;Brandenburg
+Gütersloh;519000;83833;Germany;North Rhine-Westphalia
+Kaiserslautern;494447;77689;Germany;Rhineland-Palatinate
+Witten;514333;73333;Germany;North Rhine-Westphalia
+Hanau;501328;89169;Germany;Hesse
+Schwerin;536333;114167;Germany;Mecklenburg-Western Pomerania
+Gera;508782;120824;Germany;Thuringia
+Esslingen;487406;93108;Germany;Baden-Württemberg
+Ludwigsburg;488975;91919;Germany;Baden-Württemberg
+Iserlohn;513833;76667;Germany;North Rhine-Westphalia
+Düren;508000;64833;Germany;North Rhine-Westphalia
+Tübingen;485200;90556;Germany;Baden-Württemberg
+Flensburg;547819;94367;Germany;Schleswig-Holstein
+Zwickau;507189;124961;Germany;Saxony
+Gießen;505833;86667;Germany;Hesse
+Ratingen;513000;68500;Germany;North Rhine-Westphalia
+Lünen;516167;75167;Germany;North Rhine-Westphalia
+Villingen-Schwenningen;480603;84586;Germany;Baden-Württemberg
+Konstanz;476633;91753;Germany;Baden-Württemberg
+Marl;516667;71167;Germany;North Rhine-Westphalia
+Worms;496319;83653;Germany;Rhineland-Palatinate
+Velbert;513400;70416;Germany;North Rhine-Westphalia
+Minden;522883;89167;Germany;North Rhine-Westphalia
+Dessau-Roßlau;518333;122333;Germany;Saxony-Anhalt
+Neumünster;540714;99900;Germany;Schleswig-Holstein
+Norderstedt;537064;100103;Germany;Schleswig-Holstein
+Delmenhorst;530506;86317;Germany;Lower Saxony
+Bamberg;498917;108917;Germany;Bavaria
+Viersen;512556;63917;Germany;North Rhine-Westphalia
+Marburg;508167;87667;Germany;Hesse
+Rheine;522833;74333;Germany;North Rhine-Westphalia
+Wilhelmshaven;535167;81333;Germany;Lower Saxony
+Gladbeck;515713;69827;Germany;North Rhine-Westphalia
+Lüneburg;532525;104144;Germany;Lower Saxony
+Troisdorf;508161;71556;Germany;North Rhine-Westphalia
+Dorsten;516600;69642;Germany;North Rhine-Westphalia
+Bayreuth;499481;115783;Germany;Bavaria
+Detmold;519378;88833;Germany;North Rhine-Westphalia
+Arnsberg;513967;80644;Germany;North Rhine-Westphalia
+Castrop-Rauxel;515500;73167;Germany;North Rhine-Westphalia
+Lüdenscheid;512198;76273;Germany;North Rhine-Westphalia
+Landshut;485397;121508;Germany;Bavaria
+Brandenburg;524117;125561;Germany;Brandenburg
+Bocholt;518333;66167;Germany;North Rhine-Westphalia
+Aschaffenburg;499757;91478;Germany;Bavaria
+Celle;526256;100825;Germany;Lower Saxony
+Kempten;477333;103167;Germany;Bavaria
+Fulda;505528;96775;Germany;Hesse
+Aalen;488372;100936;Germany;Baden-Württemberg
+Lippstadt;516667;83500;Germany;North Rhine-Westphalia
+Dinslaken;515667;67333;Germany;North Rhine-Westphalia
+Herford;521146;86734;Germany;North Rhine-Westphalia
+Kerpen;508719;66961;Germany;North Rhine-Westphalia
+Weimar;509833;113167;Germany;Thuringia
+Plauen;504950;121383;Germany;Saxony
+Sindelfingen;487133;90028;Germany;Baden-Württemberg
+Neuwied;504286;74614;Germany;Rhineland-Palatinate
+Dormagen;510964;68400;Germany;North Rhine-Westphalia
+Neubrandenburg;535569;132608;Germany;Mecklenburg-Western Pomerania
+Grevenbroich;510883;65875;Germany;North Rhine-Westphalia
+Rosenheim;478561;121289;Germany;Bavaria
+Herten;516000;71333;Germany;North Rhine-Westphalia
+Bergheim;509667;66500;Germany;North Rhine-Westphalia
+Schwäbisch Gmünd;488000;98000;Germany;Baden-Württemberg
+Coburg;502666;109666;Germany;Bavaria
+Friedrichshafen;476542;94792;Germany;Baden-Württemberg
+Garbsen;524183;95981;Germany;Lower Saxony
+Wesel;516586;66178;Germany;North Rhine-Westphalia
+Hürth;508775;68761;Germany;North Rhine-Westphalia
+Offenburg;484708;79408;Germany;Baden-Württemberg
+Stralsund;543000;130833;Germany;Mecklenburg-Western Pomerania
+Greifswald;540833;133833;Germany;Mecklenburg-Western Pomerania
+Langenfeld;511167;69500;Germany;North Rhine-Westphalia
+Neu-Ulm;483833;100000;Germany;Bavaria
+Unna;515347;76889;Germany;North Rhine-Westphalia
+Euskirchen;506597;67917;Germany;North Rhine-Westphalia
+Frankfurt (Oder);523500;145500;Germany;Brandenburg
+Göppingen;487025;96528;Germany;Baden-Württemberg
+Hameln;521031;93600;Germany;Lower Saxony
+Stolberg;507667;62333;Germany;North Rhine-Westphalia
+Eschweiler;508167;62833;Germany;North Rhine-Westphalia
+Görlitz;511528;149872;Germany;Saxony
+Meerbusch;512667;66667;Germany;North Rhine-Westphalia
+Sankt Augustin;507700;71867;Germany;North Rhine-Westphalia
+Hilden;511714;69394;Germany;North Rhine-Westphalia
+Waiblingen;488303;93169;Germany;Baden-Württemberg
+Baden-Baden;487619;82408;Germany;Baden-Württemberg
+Langenhagen;524394;97400;Germany;Lower Saxony
+Hattingen;513992;71858;Germany;North Rhine-Westphalia
+Lingen;525233;73172;Germany;Lower Saxony
+Bad Homburg;502292;86105;Germany;Hesse
+Bad Salzuflen;520875;87506;Germany;North Rhine-Westphalia
+Pulheim;510000;68000;Germany;North Rhine-Westphalia
+Schweinfurt;500500;102333;Germany;Bavaria
+Nordhorn;524333;70667;Germany;Lower Saxony
+Neustadt;493500;81500;Germany;Rhineland-Palatinate
+Wetzlar;505667;85000;Germany;Hesse
+Ahlen;517633;78911;Germany;North Rhine-Westphalia
+Frechen;509167;68167;Germany;North Rhine-Westphalia
+Passau;485667;134667;Germany;Bavaria
+Wolfenbüttel;521622;105369;Germany;Lower Saxony
+Ibbenbüren;522778;77167;Germany;North Rhine-Westphalia
+Kleve;517900;61400;Germany;North Rhine-Westphalia
+Bad Kreuznach;498469;78669;Germany;Rhineland-Palatinate
+Goslar;519060;104292;Germany;Lower Saxony
+Gummersbach;510333;75667;Germany;North Rhine-Westphalia
+Ravensburg;477831;96114;Germany;Baden-Württemberg
+Willich;512631;65492;Germany;North Rhine-Westphalia
+Speyer;493194;84311;Germany;Rhineland-Palatinate
+Böblingen;486833;90000;Germany;Baden-Württemberg
+Peine;523203;102336;Germany;Lower Saxony
+Emden;533669;72061;Germany;Lower Saxony
+Elmshorn;537547;96536;Germany;Schleswig-Holstein
+Erftstadt;508167;67667;Germany;North Rhine-Westphalia
+Rastatt;488572;82031;Germany;Baden-Württemberg
+Heidenheim;486761;101544;Germany;Baden-Württemberg
+Lörrach;476156;76614;Germany;Baden-Württemberg
+Leonberg;488014;90131;Germany;Baden-Württemberg
+Bergkamen;516167;76333;Germany;North Rhine-Westphalia
+Bad Oeynhausen;522000;88000;Germany;North Rhine-Westphalia
+Freising;484028;117489;Germany;Bavaria
+Frankenthal;495333;83500;Germany;Rhineland-Palatinate
+Rheda-Wiedenbrück;518417;83000;Germany;North Rhine-Westphalia
+Cuxhaven;538667;87000;Germany;Lower Saxony
+Bornheim;507592;70050;Germany;North Rhine-Westphalia
+Gronau;522125;70417;Germany;North Rhine-Westphalia
+Straubing;488772;125758;Germany;Bavaria
+Stade;536008;94764;Germany;Lower Saxony
+Soest;515711;81092;Germany;North Rhine-Westphalia
+Dachau;482603;114342;Germany;Bavaria
+Alsdorf;508744;61615;Germany;North Rhine-Westphalia
+Landau;491994;81231;Germany;Rhineland-Palatinate
+Dülmen;518308;72783;Germany;North Rhine-Westphalia
+Melle;522031;83361;Germany;Lower Saxony
+Neunkirchen;493448;71799;Germany;Saarland
+Herzogenrath;508667;61000;Germany;North Rhine-Westphalia
+Schwerte;514458;75653;Germany;North Rhine-Westphalia
+Oberursel;502028;85769;Germany;Hesse
+Wittenberg;518671;126484;Germany;Saxony-Anhalt
+Hof;503167;119167;Germany;Bavaria
+Filderstadt;486667;92167;Germany;Baden-Württemberg
+Gotha;509489;107183;Germany;Thuringia
+Fellbach;488086;92758;Germany;Baden-Württemberg
+Bünde;522000;86000;Germany;North Rhine-Westphalia
+Albstadt;482119;90239;Germany;Baden-Württemberg
+Weinheim;495561;86697;Germany;Baden-Württemberg
+Rodgau;500256;88841;Germany;Hesse
+Bruchsal;491333;86000;Germany;Baden-Württemberg
+Oranienburg;527544;132369;Germany;Brandenburg
+Brühl;508333;69000;Germany;North Rhine-Westphalia
+Erkrath;512239;69147;Germany;North Rhine-Westphalia
+Neustadt am Rübenberge;525055;94636;Germany;Lower Saxony
+Lehrte;523725;99769;Germany;Lower Saxony
+Kaufbeuren;478800;106225;Germany;Bavaria
+Falkensee;525583;130917;Germany;Brandenburg
+Memmingen;479878;101811;Germany;Bavaria
+Kaarst;512278;66273;Germany;North Rhine-Westphalia
+Erkelenz;510800;63156;Germany;North Rhine-Westphalia
+Pinneberg;536591;98009;Germany;Schleswig-Holstein
+Bietigheim-Bissingen;489667;91333;Germany;Baden-Württemberg
+Kamen;515917;76653;Germany;North Rhine-Westphalia
+Wismar;538925;114650;Germany;Mecklenburg-Western Pomerania
+Borken;518439;68583;Germany;North Rhine-Westphalia
+Gifhorn;524886;105464;Germany;Lower Saxony
+Nettetal;513167;62833;Germany;North Rhine-Westphalia
+Eisenach;509747;103244;Germany;Thuringia
+Dreieich;500189;86961;Germany;Hesse
+Aurich;534714;74836;Germany;Lower Saxony
+Amberg;494444;118483;Germany;Bavaria
+Heinsberg;510631;60964;Germany;North Rhine-Westphalia
+Ansbach;493000;105833;Germany;Bavaria
+Homburg;493167;73333;Germany;Saarland
+Nordhausen;515050;107911;Germany;Thuringia
+Wunstorf;524238;94359;Germany;Lower Saxony
+Siegburg;508014;72044;Germany;North Rhine-Westphalia
+Laatzen;523077;98133;Germany;Lower Saxony
+Königswinter;506833;71833;Germany;North Rhine-Westphalia
+Nürtingen;486267;93353;Germany;Baden-Württemberg
+Freiberg;509119;133428;Germany;Saxony
+Schwabach;493292;110208;Germany;Bavaria
+Lemgo;520277;89043;Germany;North Rhine-Westphalia
+Kirchheim unter Teck;486483;94511;Germany;Baden-Württemberg
+Bensheim;496811;86228;Germany;Hesse
+Schwäbisch Hall;491122;97375;Germany;Baden-Württemberg
+Weißenfels;512000;119667;Germany;Saxony-Anhalt
+Pirmasens;492000;76000;Germany;Rhineland-Palatinate
+Germering;481333;113667;Germany;Bavaria
+Eberswalde;528331;138331;Germany;Brandenburg
+Halberstadt;518958;110467;Germany;Saxony-Anhalt
+Buxtehude;534769;97011;Germany;Lower Saxony
+Leinfelden-Echterdingen;486928;91428;Germany;Baden-Württemberg
+Neumarkt;492833;114667;Germany;Bavaria
+Hückelhoven;510608;62197;Germany;North Rhine-Westphalia
+Hofheim;500876;84447;Germany;Hesse
+Freital;510167;136500;Germany;Saxony
+Löhne;522000;87000;Germany;North Rhine-Westphalia
+Schorndorf;488000;95333;Germany;Baden-Württemberg
+Stendal;526000;118500;Germany;Saxony-Anhalt
+Völklingen;492500;68333;Germany;Saarland
+Ettlingen;489333;84000;Germany;Baden-Württemberg
+Ostfildern;487228;92631;Germany;Baden-Württemberg
+Maintal;501500;88333;Germany;Hesse
+Ahaus;520794;70134;Germany;North Rhine-Westphalia
+Ilmenau;506872;109142;Germany;Thuringia
+Mettmann;512500;69667;Germany;North Rhine-Westphalia
+Würselen;508247;61275;Germany;North Rhine-Westphalia
+Bitterfeld;516167;123167;Germany;Saxony
+Bautzen;511814;144239;Germany;Saxony
+Pirna;509622;139403;Germany;Saxony
+Niederkassel;508167;70333;Germany;North Rhine-Westphalia
+Langen;499893;86803;Germany;Hesse
+Greven;520917;76083;Germany;North Rhine-Westphalia
+Fürstenfeldbruck;481778;112556;Germany;Bavaria
+Neu Isenburg;500558;86971;Germany;Hesse
+Papenburg;530667;74000;Germany;Lower Saxony
+Kamp-Lintfort;515000;65333;Germany;North Rhine-Westphalia
+Backnang;489464;94306;Germany;Baden-Württemberg
+Warendorf;519539;79933;Germany;North Rhine-Westphalia
+Königs Wusterhausen;522917;136250;Germany;Brandenburg
+Suhl;506106;106931;Germany;Thuringia
+Beckum;517558;80408;Germany;North Rhine-Westphalia
+Erding;483001;119082;Germany;Bavaria
+Coesfeld;519458;71675;Germany;North Rhine-Westphalia
+Mühlhausen;512167;104500;Germany;Thuringia
+Wesseling;508207;69786;Germany;North Rhine-Westphalia
+Kehl;485711;78089;Germany;Baden-Württemberg
+Emsdetten;521728;75344;Germany;North Rhine-Westphalia
+Tuttlingen;479850;88233;Germany;Baden-Württemberg
+Sankt Ingbert;493000;71167;Germany;Saarland
+Porta Westfalica;522167;89333;Germany;North Rhine-Westphalia
+Sinsheim;492500;88833;Germany;Baden-Württemberg
+Meppen;526906;72910;Germany;Lower Saxony
+Limburg;503833;80667;Germany;Hesse
+Ingelheim;499747;80564;Germany;Rhineland-Palatinate
+Lage;519833;88000;Germany;North Rhine-Westphalia
+Cloppenburg;528478;80439;Germany;Lower Saxony
+Winsen;533667;102167;Germany;Lower Saxony
+Mörfelden-Walldorf;499896;85661;Germany;Hesse
+Wermelskirchen;511392;72051;Germany;North Rhine-Westphalia
+Datteln;516539;73417;Germany;North Rhine-Westphalia
+Kempen;513658;64194;Germany;North Rhine-Westphalia
+Saarlouis;493167;67500;Germany;Saarland
+Leer;532308;74528;Germany;Lower Saxony
+Seelze;523961;95981;Germany;Lower Saxony
+Crailsheim;491347;100706;Germany;Baden-Württemberg
+Barsinghausen;523031;94606;Germany;Lower Saxony
+Balingen;482731;88506;Germany;Baden-Württemberg
+Zweibrücken;492494;73608;Germany;Rhineland-Palatinate
+Viernheim;495380;85792;Germany;Hesse
+Steinfurt;521504;73366;Germany;North Rhine-Westphalia
+Merseburg;513544;119928;Germany;Saxony-Anhalt
+Hemer;513833;77667;Germany;North Rhine-Westphalia
+Dietzenbach;500086;87756;Germany;Hesse
+Radebeul;511033;136700;Germany;Saxony
+Bad Vilbel;501781;87361;Germany;Hesse
+Geldern;515197;63325;Germany;North Rhine-Westphalia
+Goch;516839;61619;Germany;North Rhine-Westphalia
+Kornwestheim;488597;91850;Germany;Baden-Württemberg
+Uelzen;529647;105658;Germany;Lower Saxony
+Deggendorf;488353;129644;Germany;Bavaria
+Wedel;535833;97000;Germany;Schleswig-Holstein
+Ahrensburg;536747;102411;Germany;Schleswig-Holstein
+Rheinfelden (Baden);475611;77917;Germany;Baden-Württemberg
+Korschenbroich;511833;65167;Germany;North Rhine-Westphalia
+Biberach;480981;97886;Germany;Baden-Württemberg
+Wernigerode;518350;107853;Germany;Saxony-Anhalt
+Bernburg;518000;117333;Germany;Saxony-Anhalt
+Jülich;509222;63583;Germany;North Rhine-Westphalia
+Lampertheim;495942;84671;Germany;Hesse
+Vechta;527306;82886;Germany;Lower Saxony
+Naumburg;511521;118098;Germany;Saxony-Anhalt
+Forchheim;497197;110581;Germany;Bavaria
+Bad Nauheim;503667;87500;Germany;Hesse
+Hoyerswerda;514331;142500;Germany;Saxony
+Altenburg;509850;124333;Germany;Thuringia
+Delbrück;517667;85667;Germany;North Rhine-Westphalia
+Fürstenwalde;523667;140667;Germany;Brandenburg
+Achim;530130;90330;Germany;Lower Saxony
+Itzehoe;539250;95164;Germany;Schleswig-Holstein
+Georgsmarienhütte;522031;80447;Germany;Lower Saxony
+Herrenberg;485967;88708;Germany;Baden-Württemberg
+Oer-Erkenschwick;516422;72508;Germany;North Rhine-Westphalia
+Radolfzell am Bodensee;477369;89697;Germany;Baden-Württemberg
+Kreuztal;509620;80064;Germany;North Rhine-Westphalia
+Rheinberg;515467;66006;Germany;North Rhine-Westphalia
+Bramsche;524089;79728;Germany;Lower Saxony
+Neuruppin;529222;128000;Germany;Brandenburg
+Einbeck;518167;98667;Germany;Lower Saxony
+Werl;515528;79139;Germany;North Rhine-Westphalia
+Schönebeck;520167;117500;Germany;Saxony-Anhalt
+Burgdorf;524500;100083;Germany;Lower Saxony
+Gevelsberg;513265;73559;Germany;North Rhine-Westphalia
+Geesthacht;534381;103747;Germany;Schleswig-Holstein
+Haan;511931;70131;Germany;North Rhine-Westphalia
+Lohmar;508415;72166;Germany;North Rhine-Westphalia
+Osterholz-Scharmbeck;532269;87947;Germany;Lower Saxony
+Weil am Rhein;475947;76108;Germany;Baden-Württemberg
+Ennepetal;513021;73425;Germany;North Rhine-Westphalia
+Riesa;513081;132939;Germany;Saxony
+Taunusstein;501435;81606;Germany;Hesse
+Andernach;504397;74017;Germany;Rhineland-Palatinate
+Meschede;513503;82836;Germany;North Rhine-Westphalia
+Schwedt (Oder);530631;142831;Germany;Brandenburg
+Friedberg;483500;109833;Germany;Bavaria
+Bad Hersfeld;508683;97067;Germany;Hesse
+Gaggenau;488039;83194;Germany;Baden-Württemberg
+Merzig;494471;66312;Germany;Saarland
+Neuburg;487333;111833;Germany;Bavaria
+Derne;516667;76167;Germany;North Rhine-Westphalia
+Vaihingen an der Enz;489328;89564;Germany;Baden-Württemberg
+Rietberg;518000;84333;Germany;North Rhine-Westphalia
+Saalfeld;506506;113542;Germany;Thuringia
+Bretten;490364;87061;Germany;Baden-Württemberg
+Waltrop;516167;73833;Germany;North Rhine-Westphalia
+Oelde;518258;81436;Germany;North Rhine-Westphalia
+Tönisvorst;513208;64931;Germany;North Rhine-Westphalia
+Güstrow;537939;121764;Germany;Mecklenburg-Western Pomerania
+Friedberg;503353;87550;Germany;Hesse
+Landsberg;480528;108689;Germany;Bavaria
+Northeim;517067;100011;Germany;Lower Saxony
+Kelkheim (Taunus);501380;84525;Germany;Hesse
+Springe;522167;95500;Germany;Lower Saxony
+Unterschleißheim;482833;115667;Germany;Bavaria
+Bühl;486953;81350;Germany;Baden-Württemberg
+Schwandorf;493236;120993;Germany;Bavaria
+Höxter;517667;93667;Germany;North Rhine-Westphalia
+Rösrath;509000;71833;Germany;North Rhine-Westphalia
+Schwelm;512904;72972;Germany;North Rhine-Westphalia
+Rendsburg;543044;96644;Germany;Schleswig-Holstein
+Steinheim am Main;501257;88300;Germany;Hesse
+Winnenden;488764;93978;Germany;Baden-Württemberg
+Idar-Oberstein;497019;73253;Germany;Rhineland-Palatinate
+Bad Neuenahr-Ahrweiler;505447;71133;Germany;Rhineland-Palatinate
+Grimma;512386;127253;Germany;Saxony
+Wegberg;511333;62667;Germany;North Rhine-Westphalia
+Geislingen an der Steige;486244;98306;Germany;Baden-Württemberg
+Königsbrunn;482689;108908;Germany;Bavaria
+Meißen;511636;134775;Germany;Saxony
+Leichlingen;511167;70167;Germany;North Rhine-Westphalia
+Kevelaer;515833;62500;Germany;North Rhine-Westphalia
+Zeitz;510478;121383;Germany;Saxony-Anhalt
+Emmendingen;481214;78492;Germany;Baden-Württemberg
+Sundern;513167;80000;Germany;North Rhine-Westphalia
+Baunatal;512589;94183;Germany;Hesse
+Olching;482000;113167;Germany;Bavaria
+Reinbek;535089;102483;Germany;Schleswig-Holstein
+Mechernich;506000;66500;Germany;North Rhine-Westphalia
+Wetter (Ruhr);513881;73950;Germany;North Rhine-Westphalia
+Griesheim;498594;85525;Germany;Hesse
+Arnstadt;508342;109464;Germany;Thuringia
+Aschersleben;517500;114667;Germany;Saxony-Anhalt
+Geilenkirchen;509653;61194;Germany;North Rhine-Westphalia
+Rheinbach;506256;69491;Germany;North Rhine-Westphalia
+Overath;509500;73000;Germany;North Rhine-Westphalia
+Baesweiler;509000;61833;Germany;North Rhine-Westphalia
+Neustadt;488111;93656;Germany;Baden-Württemberg
+Leimen;493481;86911;Germany;Baden-Württemberg
+Wangen im Allgäu;476858;98342;Germany;Baden-Württemberg
+Schloß Holte-Stukenbrock;518833;86167;Germany;North Rhine-Westphalia
+Lohne;526667;82386;Germany;Lower Saxony
+Wiesloch;492942;86983;Germany;Baden-Württemberg
+Hamminkeln;517319;65908;Germany;North Rhine-Westphalia
+Strausberg;525808;138814;Germany;Brandenburg
+Lauf;495103;112772;Germany;Bavaria
+Neckarsulm;491917;92244;Germany;Baden-Württemberg
+Heiligenhaus;513265;69710;Germany;North Rhine-Westphalia
+Sangerhausen;514667;113000;Germany;Saxony-Anhalt
+Hennigsdorf;526378;132036;Germany;Brandenburg
+Ehingen an der Donau;482833;97236;Germany;Baden-Württemberg
+Butzbach;504367;86622;Germany;Hesse
+Nordenham;535000;84667;Germany;Lower Saxony
+Hohen Neuendorf;526667;132831;Germany;Brandenburg
+Ludwigsfelde;522997;132667;Germany;Brandenburg
+Mühlacker;489500;88392;Germany;Baden-Württemberg
+Heppenheim;496415;86450;Germany;Hesse
+Selm;516833;74833;Germany;North Rhine-Westphalia
+Weiterstadt;499000;86000;Germany;Hesse
+Pfaffenhofen;485333;115167;Germany;Bavaria
+Kulmbach;501000;114333;Germany;Bavaria
+Sankt Wendel;494667;71667;Germany;Saarland
+Teltow;524022;132706;Germany;Brandenburg
+Bad Honnef am Rhein;506450;72269;Germany;North Rhine-Westphalia
+Helmstedt;522281;110106;Germany;Lower Saxony
+Bingen am Rhein;499669;78950;Germany;Rhineland-Palatinate
+Achern;486314;80739;Germany;Baden-Württemberg
+Zirndorf;494500;109500;Germany;Bavaria
+Roth;492461;110911;Germany;Bavaria
+Lennestadt;511236;80681;Germany;North Rhine-Westphalia
+Verl;518831;85167;Germany;North Rhine-Westphalia
+Lindau;475458;96839;Germany;Bavaria
+Lübbecke;523081;86231;Germany;North Rhine-Westphalia
+Rinteln;521906;90814;Germany;Lower Saxony
+Brilon;513956;85678;Germany;North Rhine-Westphalia
+Staßfurt;518667;115667;Germany;Saxony-Anhalt
+Zittau;508961;148072;Germany;Saxony
+Plettenberg;512128;78715;Germany;North Rhine-Westphalia
+Groß-Gerau;499214;84818;Germany;Hesse
+Schleswig;545153;95697;Germany;Schleswig-Holstein
+Geretsried;478667;114667;Germany;Bavaria
+Rottweil;481681;86247;Germany;Baden-Württemberg
+Friedrichsdorf;502569;86418;Germany;Hesse
+Petershagen;523833;89667;Germany;North Rhine-Westphalia
+Pfungstadt;498056;86044;Germany;Hesse
+Harsewinkel;519667;82331;Germany;North Rhine-Westphalia
+Wiehl;509500;75333;Germany;North Rhine-Westphalia
+Horb am Neckar;484450;86911;Germany;Baden-Württemberg
+Rudolstadt;507169;113275;Germany;Thuringia
+Salzkotten;516708;86047;Germany;North Rhine-Westphalia
+Norden;535967;72056;Germany;Lower Saxony
+Weingarten;478078;96417;Germany;Baden-Württemberg
+Obertshausen;500715;88482;Germany;Hesse
+Idstein;502206;82692;Germany;Hesse
+Ditzingen;488264;90667;Germany;Baden-Württemberg
+Schmallenberg;511333;83000;Germany;North Rhine-Westphalia
+Delitzsch;515264;123425;Germany;Saxony
+Warstein;514500;83667;Germany;North Rhine-Westphalia
+Sprockhövel;513614;72440;Germany;North Rhine-Westphalia
+Bad Oldesloe;538117;103742;Germany;Schleswig-Holstein
+Olpe;510289;78514;Germany;North Rhine-Westphalia
+Espelkamp;523772;86328;Germany;North Rhine-Westphalia
+Rathenow;526000;123333;Germany;Brandenburg
+Senftenberg;515167;140167;Germany;Brandenburg
+Meiningen;505500;104167;Germany;Thuringia
+Waldshut-Tiengen;476231;82144;Germany;Baden-Württemberg
+Sonneberg;503500;111667;Germany;Thuringia
+Salzwedel;528500;111500;Germany;Saxony-Anhalt
+Calw;487144;87375;Germany;Baden-Württemberg
+Korbach;512719;88731;Germany;Hesse
+Starnberg;479972;113406;Germany;Bavaria
+Freudenstadt;484633;84111;Germany;Baden-Württemberg
+Mosbach;493500;91333;Germany;Baden-Württemberg
+Husum;544769;90511;Germany;Schleswig-Holstein
+Westerstede;532500;79167;Germany;Lower Saxony
+Burg;522725;118550;Germany;Saxony-Anhalt
+Weilheim;478333;111333;Germany;Bavaria
+Bad Kissingen;502000;100667;Germany;Bavaria
+Stadthagen;523247;92069;Germany;Lower Saxony
+Apolda;510247;115139;Germany;Thuringia
+Osterode;517286;102522;Germany;Lower Saxony
+Kitzingen;497333;101667;Germany;Bavaria
+Heide;541961;90933;Germany;Schleswig-Holstein
+Sonthofen;475142;102817;Germany;Bavaria
+Sondershausen;513667;108667;Germany;Thuringia
+Aichach;484500;111333;Germany;Bavaria
+Germersheim;492167;83667;Germany;Rhineland-Palatinate
+Günzburg;484525;102711;Germany;Bavaria
+Luckenwalde;520831;131667;Germany;Brandenburg
+Traunstein;478683;126433;Germany;Bavaria
+Mühldorf;482456;125228;Germany;Bavaria
+Wittmund;535747;77808;Germany;Lower Saxony
+Bad Salzungen;508117;102333;Germany;Thuringia
+Lichtenfels;501333;110333;Germany;Bavaria
+Greiz;506547;121997;Germany;Thuringia
+Donauwörth;487184;107770;Germany;Bavaria
+Torgau;515603;130056;Germany;Saxony
+Holzminden;518297;94483;Germany;Lower Saxony
+Dingolfing;486333;125000;Germany;Bavaria
+Annaberg-Buchholz;505800;130022;Germany;Saxony
+Eschwege;511881;100528;Germany;Hesse
+Haldensleben;522833;114167;Germany;Saxony-Anhalt
+Sömmerda;511617;111169;Germany;Thuringia
+Prenzlau;533167;138667;Germany;Brandenburg
+Wittlich;499869;68897;Germany;Rhineland-Palatinate
+Dillingen;485667;104667;Germany;Bavaria
+Bad Tölz;477603;115567;Germany;Bavaria
+Marktoberdorf;477667;106167;Germany;Bavaria
+Alzey;497517;81161;Germany;Rhineland-Palatinate
+Bad Dürkheim;494618;81724;Germany;Rhineland-Palatinate
+Weißenburg;490306;109719;Germany;Bavaria
+Bad Reichenhall;477247;128769;Germany;Bavaria
+Forst;517333;146333;Germany;Brandenburg
+Parchim;534167;118333;Germany;Mecklenburg-Western Pomerania
+Sigmaringen;480867;92164;Germany;Baden-Württemberg
+Bad Segeberg;539356;103089;Germany;Schleswig-Holstein
+Heilbad Heiligenstadt;513775;101344;Germany;Thuringia
+Eutin;541378;106181;Germany;Schleswig-Holstein
+Cham;492183;126658;Germany;Bavaria
+Diepholz;526072;83711;Germany;Lower Saxony
+Kronach;502411;113281;Germany;Bavaria
+Kelheim;489167;118667;Germany;Bavaria
+Bad Neustadt;503219;102161;Germany;Bavaria
+Künzelsau;492833;96833;Germany;Baden-Württemberg
+Mindelheim;480333;104667;Germany;Bavaria
+Brake;533333;84833;Germany;Lower Saxony
+Bitburg;499747;65256;Germany;Rhineland-Palatinate
+Ratzeburg;537017;107567;Germany;Schleswig-Holstein
+Jever;535744;79008;Germany;Lower Saxony
+Lübben;519500;139000;Germany;Brandenburg
+Montabaur;504375;78258;Germany;Rhineland-Palatinate
+Erbach;496569;89931;Germany;Hesse
+Lauterbach;506378;93944;Germany;Hesse
+Haßfurt;500353;105123;Germany;Bavaria
+Eichstätt;488919;111839;Germany;Bavaria
+Tauberbischofsheim;496225;96628;Germany;Baden-Württemberg
+Neustadt;495800;106089;Germany;Bavaria
+Pfarrkirchen;484419;129443;Germany;Bavaria
+Ebersberg;480833;119667;Germany;Bavaria
+Perleberg;530667;118667;Germany;Brandenburg
+Bad Fallingbostel;528675;96967;Germany;Lower Saxony
+Hildburghausen;504261;107289;Germany;Thuringia
+Miesbach;477890;118338;Germany;Bavaria
+Bad Schwalbach;501401;80694;Germany;Hesse
+Regen;489700;131264;Germany;Bavaria
+Eisenberg;509667;119000;Germany;Thuringia
+Altötting;482264;126759;Germany;Bavaria
+Bad Ems;503381;77106;Germany;Rhineland-Palatinate
+Lüchow;529667;111500;Germany;Lower Saxony
+Miltenberg;497039;92644;Germany;Bavaria
+Wunsiedel;500374;119994;Germany;Bavaria
+Herzberg;516831;132331;Germany;Brandenburg
+Plön;541622;104214;Germany;Schleswig-Holstein
+Schleiz;505833;118167;Germany;Thuringia
+Tirschenreuth;498789;123369;Germany;Bavaria
+Beeskow;521667;142500;Germany;Brandenburg
+Daun;501986;68319;Germany;Rhineland-Palatinate
+Simmern;499833;75167;Germany;Rhineland-Palatinate
+Kirchheimbolanden;496664;80117;Germany;Rhineland-Palatinate
+Freyung;488075;135475;Germany;Bavaria
+Birkenfeld;496500;71833;Germany;Rhineland-Palatinate
+Altenkirchen;506872;76456;Germany;Rhineland-Palatinate
+Neustadt;497306;121706;Germany;Bavaria
+Seelow;525167;143831;Germany;Brandenburg
+Kusel;495347;73981;Germany;Rhineland-Palatinate
+Cochem;501469;71667;Germany;Rhineland-Palatinate
+Offenbach;501006;87665;Germany;Hesse
+Weiden;496768;121561;Germany;Bavaria
+Nienburg;526461;92208;Germany;Lower Saxony
+Verden;529234;92349;Germany;Lower Saxony
+Köthen;517518;119709;Germany;Saxony-Anhalt
+Rotenburg;530851;93879;Germany;Lower Saxony
+Karlstadt;499603;97724;Germany;Bavaria
+Neustadt;495656;88437;Germany;Hesse
+Homberg;510299;94026;Germany;Hesse
+Garmisch-Partenkirchen;474985;111044;Germany;Bavaria
+Sankt Wolfgang;482415;121834;Germany;Bavaria
+Netphen;509419;80531;Germany;North Rhine-Westphalia
+Eberhardzell;480167;97833;Germany;Baden-Württemberg
+Pfinztal;489667;85333;Germany;Baden-Württemberg
+Schutterwald;485167;78833;Germany;Baden-Württemberg
+Wasbek;540833;99833;Germany;Schleswig-Holstein
+Gauting;481000;113500;Germany;Bavaria
+Telgte;519500;77833;Germany;North Rhine-Westphalia
+Boppard;502333;75500;Germany;Rhineland-Palatinate
+Vogtei;512155;104262;Germany;Thuringia
+Bardowick;533333;104333;Germany;Lower Saxony
