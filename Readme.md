@@ -60,11 +60,8 @@ To make the data more accessible and insightful, an interactive Tableau dashboar
 |-------------------|-------------|----------|-----------|------------|------------|
 | Software Engineer | 2025-03-07  | Berlin   | Xing GmbH | 60,000     | 90,000     |
 
-**Raw Data (xing_output_file.csv):**
+**Clean Data (xing_cleaned_jobs.csv):**
+|     Job Title     | Updated Date |  Company  | Min Salary | Max Salary | Cleaned_City | Latitude |  Longitude  |  State  |
+|-------------------|--------------|-----------|------------|------------|--------------|----------|-------------|---------|
+| Software Engineer |  2025-03-07  | Xing GmbH | 60,000     | 90,000     | Berlin       | 525167   | 133833      |  Berlin |
 
-|    Job Title    | Updated Date|  Company  |Min Salary|Max Salary|Cleaned_City|Latitude|Longitude|State |
-|-----------------|-------------|-----------|----------|----------|---------------------|---------|------|
-|Software Engineer| 2025-03-07  | Xing GmbH |60,000    |90,000    |Berlin      |525167  |133833   |Berlin|
-
----
-This project provides a foundation for understanding the IT job market in Germany through data engineering and visualization techniques.
