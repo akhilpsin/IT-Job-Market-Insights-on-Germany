@@ -21,8 +21,8 @@ def get_xing_data(data_size=100, out_file="xing_output_file.csv", limit=20):
     Returns:
         None
     """
-    with open(out_file, mode="w", newline="", encoding="utf-8") as file:
-        writer = csv.writer(file)
+    with open(out_file, mode="w", newline="") as file: 
+        writer = csv.writer(file, delimiter=";")
         writer.writerow(["Job Title", "Updated Date", "Location", "Company", "Min Salary", "Max Salary"])
 
         for offset in range(0, data_size, limit):
@@ -41,5 +41,7 @@ def get_xing_data(data_size=100, out_file="xing_output_file.csv", limit=20):
     # Clean the data after scraping
     clean_job_data(input_file=out_file, output_file="xing_cleaned_jobs.csv")
 
+
 if __name__ == "__main__":
     get_xing_data(1000, "xing_output_file.csv")
+    

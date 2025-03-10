@@ -7,7 +7,7 @@ This script cleans the scraped job data by correcting city names and adding geog
 import pandas as pd
 from thefuzz import process
 
-def clean_job_data(input_file="xing_job_data.csv", cities_file="Deutschland_Cities.csv", output_file="xing_cleaned_jobs.csv"):
+def clean_job_data(input_file="xing_job_data.csv", cities_file="Helper_files\Deutschland_Cities.csv", output_file="xing_cleaned_jobs.csv"):
     """
     Cleans the scraped job data by correcting city names and adding geographical information (latitude, longitude, and state).
 
