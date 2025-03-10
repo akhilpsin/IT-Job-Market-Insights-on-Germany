@@ -37,7 +37,7 @@ To make the data more accessible and insightful, an interactive Tableau dashboar
 
 🔗 **[View the Tableau Dashboard](https://public.tableau.com/views/ITJobDemandAcrossGermany/CompleteDashboard)**
 
-![IT Job Market Insights Dashboard for Germany](https://github.com/akhilpsin/Data-engineering-project/raw/dashboard_preview.png)
+![IT Job Market Insights Dashboard for Germany](https://github.com/akhilpsin/Data-engineering-project/blob/main/raw/dashboard_preview.png)
 
 ## How to Use
 1. Clone the repository:
