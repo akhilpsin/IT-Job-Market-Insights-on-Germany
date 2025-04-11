@@ -1,10 +1,8 @@
 """
 main_scraper.py
-
 This script fetches job listings from Xing, saves the extracted job data into a CSV file, 
 and then cleans the data by correcting city names and adding geographical information.
 """
-
 import csv
 from Helper_files.xing_scraping_helper import fetch_jobs, extract_job_data
 from Helper_files.xing_cleaning_helper import clean_job_data
@@ -21,7 +19,7 @@ def get_xing_data(data_size=100, out_file="xing_output_file.csv", limit=20):
     Returns:
         None
     """
-    with open(out_file, mode="w", newline="") as file: 
+    with open(out_file, mode="w", newline="", encoding="utf-8") as file: 
         writer = csv.writer(file, delimiter=";")
         writer.writerow(["Job Title", "Updated Date", "Location", "Company", "Min Salary", "Max Salary"])
 
@@ -44,4 +42,3 @@ def get_xing_data(data_size=100, out_file="xing_output_file.csv", limit=20):
 
 if __name__ == "__main__":
     get_xing_data(1000, "xing_output_file.csv")
-    

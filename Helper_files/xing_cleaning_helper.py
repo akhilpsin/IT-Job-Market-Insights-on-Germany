@@ -1,13 +1,11 @@
 """
 xing_cleaning_helper.py
-
 This script cleans the scraped job data by correcting city names and adding geographical information.
 """
-
 import pandas as pd
 from thefuzz import process
 
-def clean_job_data(input_file="xing_job_data.csv", cities_file="Helper_files\Deutschland_Cities.csv", output_file="xing_cleaned_jobs.csv"):
+def clean_job_data(input_file="xing_job_data.csv", cities_file="Helper_files/Deutschland_Cities.csv", output_file="xing_cleaned_jobs.csv"):
     """
     Cleans the scraped job data by correcting city names and adding geographical information (latitude, longitude, and state).
 
@@ -63,3 +61,4 @@ def clean_job_data(input_file="xing_job_data.csv", cities_file="Helper_files\Deu
     jobs_df.to_csv(output_file, index=False, sep=";", encoding="latin1")
 
     print("Cleaning complete! Saved as cleaned_jobs.csv")
+
